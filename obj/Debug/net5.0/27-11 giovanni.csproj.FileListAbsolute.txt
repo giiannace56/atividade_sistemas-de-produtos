@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\27-11 giovanni\bin\Debug\net5.0\27-11 giovanni.exe
+C:\Users\dev\Desktop\27-11 giovanni\bin\Debug\net5.0\27-11 giovanni.deps.json
+C:\Users\dev\Desktop\27-11 giovanni\bin\Debug\net5.0\27-11 giovanni.runtimeconfig.json
+C:\Users\dev\Desktop\27-11 giovanni\bin\Debug\net5.0\27-11 giovanni.runtimeconfig.dev.json
+C:\Users\dev\Desktop\27-11 giovanni\bin\Debug\net5.0\27-11 giovanni.dll
+C:\Users\dev\Desktop\27-11 giovanni\bin\Debug\net5.0\ref\27-11 giovanni.dll
+C:\Users\dev\Desktop\27-11 giovanni\bin\Debug\net5.0\27-11 giovanni.pdb
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\27-11 giovanni.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\27-11 giovanni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\27-11 giovanni.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\27-11 giovanni.AssemblyInfo.cs
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\27-11 giovanni.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\27-11 giovanni.dll
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\ref\27-11 giovanni.dll
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\27-11 giovanni.pdb
+C:\Users\dev\Desktop\27-11 giovanni\obj\Debug\net5.0\27-11 giovanni.genruntimeconfig.cache
