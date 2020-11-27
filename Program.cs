@@ -21,16 +21,23 @@ namespace _27_11_giovanni
 
             do
             {   
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Menu");
+                Console.ResetColor();
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
                 Console.WriteLine("Selecione uma das seguintes opções:");
+                Console.ResetColor();
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("[1] Cadastrar produtos");
                 Console.WriteLine("[2] Listar produtos");
                 Console.WriteLine("[0] Sair");
                 escolha = int.Parse(Console.ReadLine());
+                Console.ResetColor();
 
             switch (escolha)
-                {
+                {   
                     case 1:
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
                         Console.WriteLine("Cadastro dos produtos");
                         do
                         {
@@ -54,19 +61,21 @@ namespace _27_11_giovanni
 
                             Console.WriteLine("Gostaria de Cadastrar mais produtos ? S/N");
                             resposta = Console.ReadLine();
-
+                            Console.ResetColor();
                         }while (resposta.ToUpper() == "S");
 
                         break;
 
                     case 2:
+                        Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine("Listar os produtos.");
-                        for (var i = 0; i < produto.Length; i++)
+                        for (var i = 0; i < contador; i++)
                         {
                             Console.WriteLine($"produto: {produto[i]}");
                             Console.WriteLine($"preço : {preco[i]}");
                             Console.WriteLine($"promoção : {promocao [i]}");
                         }
+                        Console.ResetColor();
                         break;
                     case 0:
                         Console.WriteLine("obrigado pela visita !");
